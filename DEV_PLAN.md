@@ -4,9 +4,9 @@
 **Goal:** Get the basic Wails + Svelte + SQLite structure running
 
 ### Tasks:
-- [ ] Initialize Wails project with Svelte frontend
-- [ ] Set up GitHub repository with MIT license
-- [ ] Create basic project structure and folders
+- [x] Initialize Wails project with Svelte frontend
+- [x] Set up GitHub repository with MIT license
+- [x] Create basic project structure and folders
 - [ ] Set up SQLite database connection
 - [ ] Create initial database schema migration
 - [ ] Add basic README with project description and setup instructions
